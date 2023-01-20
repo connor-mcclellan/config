@@ -126,6 +126,7 @@ vim.wo.signcolumn = 'yes'
 
 -- Set colorscheme
 vim.o.termguicolors = true
+vim.cmd [[set bg=dark]]
 vim.cmd [[colorscheme melange]]
 
 -- Set completeopt to have a better completion experience
