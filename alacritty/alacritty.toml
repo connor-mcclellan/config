@@ -14,3 +14,6 @@ style = "Regular"
 
 [general]
 import = ["/home/connor/.config/alacritty/melange_dark.toml"]
+
+[env]
+TERM = "xterm"

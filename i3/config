@@ -21,7 +21,7 @@ font pango:monospace 12
 # text rendering and scalability on retina/hidpi displays (thanks to pango).
 #font pango:DejaVu Sans Mono 8
 
-# BCM: added picom configuration to improve screen tearing
+# connor-mcclellan: added picom configuration to improve screen tearing
 exec --no-startup-id picom --backend xrender --no-fading-openclose
 
 # Start XDG autostart .desktop files using dex. See also
