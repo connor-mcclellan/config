@@ -8,6 +8,8 @@ vim.lsp.enable({
 })
 
 vim.opt.mouse = ""
+vim.cmd("set number")
+vim.cmd("set nowrap")
 
 local g = vim.g
 local o = vim.o

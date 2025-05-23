@@ -3,12 +3,14 @@
 size = 12.0
 
 [font.normal]
-# family = "FixedsysModernV05 Nerd Font Mono"
-# style = "Book"
+#family = "UbuntuMono Nerd Font"
+#style = "Regular"
 family = "BigBlueTermPlus Nerd Font Mono"
 style = "Regular"
 
 [font.bold]
+#family = "UbuntuMono Nerd Font"
+#style = "Bold"
 family = "BigBlueTermPlus Nerd Font Mono"
 style = "Regular"
 
